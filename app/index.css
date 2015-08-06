@@ -1,0 +1,65 @@
+header {
+  font-family: florence, cursive;
+  font-color: #5C1F99;
+  text-align: center;
+  color: #5C1F99;
+  height:90px;
+  background-color: #B2CCff;
+  margin-top: -10px;
+  margin-right: -10px;
+  margin-left: -10px;
+  margin-bottom: -10px;
+}
+
+ #name{
+  font-size: 2em;
+  margin-bottom: 0.25em;
+ }
+ #title{
+  font-size: 1em;
+  margin-top: -2em;
+ }
+article{
+  margin-left: 350px;
+  margin-right: 50px;
+  margin-top: 8px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  position: absolute;
+  border-color: gray;
+  padding: 1em;
+  border-style: solid;
+}
+
+.familyPhotos {
+  display: inline-block;
+  position: relative;
+  height:405;
+  width:304;
+  padding:2px;
+  margin-left: -30px;
+  border-style: double;
+  border-color: black;
+  background-color: gray;
+  }
+
+section{
+  margin-left: 350px;
+  margin-right: 42px;
+  margin-top: -180px;
+  font-family: Georgia, serif;
+  font-size: 16px;
+  position: relative;
+  text-align: center;
+  border-color: gray;
+  padding-top: -1.25em;
+  padding-left: 1em;
+  padding-right: 1em;
+  border-style: solid;
+}
+
+table{
+  display: inline-block;
+  margin-left: 25px;
+  margin-right: 25px;
+}
